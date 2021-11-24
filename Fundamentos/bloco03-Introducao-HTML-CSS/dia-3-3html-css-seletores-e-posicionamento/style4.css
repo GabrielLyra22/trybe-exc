@@ -1,0 +1,42 @@
+.main {}
+.main__h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.main__section--box {''
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    color: violet
+
+}
+.section__div {
+    height: 40px;
+    width: 200px;
+    margin: 0 auto;
+}
+.section__div--yellow {
+    background-color: yellow;
+}
+.section__div--green {
+    background-color: green;
+    display: inline-block;
+}
+.section__div--blue {
+    background-color: blue;
+    display: inline-block;
+}
+.main__section {}
+.section__subtitle {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+    font-weight: 900;
+}
+.section__paragraph {
+    text-align: center;
+    font-size: 16px;
+    font-family: monospace;
+}

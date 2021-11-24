@@ -1,0 +1,8 @@
+.header {}
+.header__caixa {
+    background-color: darkblue;
+}
+.header__lista {}
+.header__item {
+    color: white;
+}
