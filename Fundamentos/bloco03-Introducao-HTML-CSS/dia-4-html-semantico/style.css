@@ -1,0 +1,42 @@
+.header {
+    
+}
+.header__title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: coral;
+}
+.header__nav {}
+.nav__list {}
+.list__item {
+    font-family: monospace;
+    display: inline-block;
+    padding: 10px;
+}
+.list__item a {
+    text-decoration: none;
+}
+.list__item--red {
+    margin-left: 20px;
+}
+.list__item--red a {
+    color: red;
+    
+}
+.list__item--red:hover {
+    border-top: 2px solid red;
+}
+.list__item--green a {
+    color: green;
+}
+.list__item--green:hover {
+    border-top: 2px solid green;
+}
+.list__item--orange a {
+    color: orangered;
+}
+.list__item--orange:hover {
+    border-top: 2px solid orange;
+}
